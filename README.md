@@ -1,6 +1,6 @@
 # 🥷🏿 Matheus ( Golizeu )
 
-**` Estudando de Analise e Desenvolvimento de Sistema `**
+**` Estudante de Analise e Desenvolvimento de Sistema `**
 
 Me chamo Matheus, tenho 24 anos e residente de  São Paulo. Tenho curso de técnico em informática, infraestrutura de redes e no momento estou cursando inglês para parear com o curso de Análise e Desenvolvimento de Sistemas. Sou calouro no assunto mas logo terei projetos no perfil.
 
@@ -81,3 +81,7 @@ Me chamo Matheus, tenho 24 anos e residente de  São Paulo. Tenho curso de técn
 <img src="https://raw.githubusercontent.com/golizeu2001/golizeu2001/output/snake.svg" alt="Snake animation" />
 
 </div>
+
+###
+
+Bem vindo du ❤️
