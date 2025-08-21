@@ -81,7 +81,3 @@ Me chamo Matheus, tenho 24 anos e residente de  São Paulo. Tenho curso de técn
 <img src="https://raw.githubusercontent.com/golizeu2001/golizeu2001/output/snake.svg" alt="Snake animation" />
 
 </div>
-
-###
-
-Bem vindo du ❤️
